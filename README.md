@@ -29,8 +29,8 @@ It provides users with inspirational or humorous advice on demand.
 
 ### Links
 
-- Solution URL: [FEM-Advice-Generator-App](https://www.frontendmentor.io/solutions/advice-generator-app-html-css-javascript-9d8s7f6a5)
-- Live Site URL: [FEM-Advice-Generator-App](https://your-advice-generator-app.com)
+- Solution URL: [FEM-Advice-Generator-App](https://www.frontendmentor.io/solutions/advice-generator-app-api-McrAndq8dJ)
+- Live Site URL: [FEM-Advice-Generator-App](https://dz-advice-generator.netlify.app/)
 
 ### Built with
 
